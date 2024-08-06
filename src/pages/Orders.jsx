@@ -17,7 +17,7 @@ const Orders = () => {
         allowExcelExport
         allowPdfExport
         contextMenuItems={contextMenuItems}
-        editSettings={editing}
+        editSettings={editing} 
       >
         <ColumnsDirective>
           {/* eslint-disable-next-line react/jsx-props-no-spreading */}
