@@ -5,7 +5,7 @@ import { IoIosMore } from 'react-icons/io';
 import { DropDownListComponent } from '@syncfusion/ej2-react-dropdowns';
 
 import { Stacked, Pie, Button, LineChart, SparkLine } from '../components';
-import { earningData, medicalproBranding, recentTransactions, weeklyStats, dropdownData, SparklineAreaData, ecomPieChartData } from '../data/dummy';
+import { earningData, medicalproBranding, recentTransactions, weeklyStats, dropdownData, SparklineAreaData, ecomPieChartData, Newsdata, React19 } from '../data/dummy';
 import { useStateContext } from '../contexts/ContextProvider';
 import product9 from '../data/product9.jpg';
 
@@ -19,8 +19,8 @@ const Ecommerce = () => {
   const { currentColor, currentMode } = useStateContext();
 
   return (
-    <div className="mt-24">
-      <div className="flex flex-wrap lg:flex-nowrap justify-center ">
+    <div className="mt-24 hover:bg-slate-600">
+      <div className="flex flex-wrap lg:flex-nowrap justify-center   ">
         <div className="bg-white dark:text-gray-200 dark:bg-secondary-dark-bg h-44 rounded-xl w-full lg:w-80 p-8 pt-9 m-3 bg-hero-pattern bg-no-repeat bg-cover bg-center">
           <div className="flex justify-between items-center">
             <div>
@@ -294,7 +294,11 @@ const Ecommerce = () => {
             <p className="text-gray-400 text-sm">36 Recent Transactions</p>
           </div>
         </div>
-        <div className="w-400 bg-white dark:text-gray-200 dark:bg-secondary-dark-bg rounded-2xl p-6 m-3">
+        
+        {React19.map((reactItem, index) => (
+          <div 
+          key={index}
+          className="w-400 bg-white dark:text-gray-200 dark:bg-secondary-dark-bg rounded-2xl p-6 m-3">
           <div className="flex justify-between">
             <p className="text-xl font-semibold">Daily Activities</p>
             <button type="button" className="text-xl font-semibold text-gray-500">
@@ -308,22 +312,59 @@ const Ecommerce = () => {
               alt=""
             />
             <div className="mt-8">
-              <p className="font-semibold text-lg">React 19 coming soon!</p>
+              <p className="font-semibold text-lg">React 19</p>
               <p className="text-gray-400 ">By Vikas Kashyap</p>
               <p className="mt-8 text-sm text-gray-400">
-                The React team typically provides updates and details about upcoming versions on their official blog and GitHub repository.
+                The React team typically provides updates and details about React 19 on their official blog and GitHub repository.
               </p>
               <div className="mt-3">
-                <Button
-                  color="white"
-                  bgColor={currentColor}
-                  text="Read More"
-                  borderRadius="10px"
-                />
+              <a href={reactItem.url} target="_blank" rel="noopener noreferrer">
+                  <button
+                    style={{ backgroundColor: currentColor }}
+                    className="text-white rounded-2xl p-2 "
+                  >
+                    Read More
+                  </button>
+                </a>
               </div>
             </div>
           </div>
         </div>
+        ))}
+        <div className="flex flex-wrap justify-center">
+      {Newsdata.map((newsItem, index) => (
+        <div
+          key={index}
+          className="w-400 bg-white dark:text-gray-200 dark:bg-secondary-dark-bg rounded-2xl p-6 m-3"
+        >
+          <div className="flex justify-between">
+            <p className="text-xl font-semibold">{newsItem.source.name}</p>
+            <button
+              type="button"
+              className="text-xl font-semibold text-gray-500"
+            >
+              <IoIosMore />
+            </button>
+          </div>
+          <div className="mt-10">
+            <div className="mt-8">
+              <p className="font-semibold text-lg">{newsItem.title}</p>
+              <p className="text-gray-400">{newsItem.author}</p>
+              <div className="mt-3">
+                <a href={newsItem.url} target="_blank" rel="noopener noreferrer">
+                  <button
+                    style={{ backgroundColor: currentColor }}
+                    className="text-white rounded-2xl p-2"
+                  >
+                    Read More
+                  </button>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      ))}
+    </div>
       </div>
     </div>
   );

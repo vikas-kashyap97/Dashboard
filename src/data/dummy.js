@@ -5870,3 +5870,269 @@ export const PyramidData = [
   { x: 'Fruits', y: 520, text: '520 cal' },
   { x: 'Bread, Rice, Pasta', y: 930, text: '930 cal' },
 ];
+
+export const React19 = [{
+  "url": "https://react.dev/blog/2024/04/25/react-19"
+}
+]
+export const Newsdata = [ {
+  "source": {
+    "id": "google-news",
+    "name": "Google News"
+  },
+  "author": "Inshorts",
+  "title": "Adani was misquoted about heirs: Adani Group on billionaire's succession plan | 'Adani plans to step down at the age of 70' | Inshorts - Inshorts",
+  "description": null,
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVTdHWVdxWEg3YlRjNHBmZmlPSVRES1UxVWJ3aF9Ma2FkMVZJTGk5QnhaeDFzYkY0M3lHdFNGQlJyOHVxX0FrejAwWFpQZkdhemRhU09BVi1KYXV0bmUyeTd6TDVGTUJzeEpwcnZJeWI3UjJFMTlDdnlodml0dDNZZE5QVUQ5LUgxVUJWWmk3UTNNdWFvdU90bWU0SG9NTkZmb2d0VW5YSGpkLWV1djZaVDEwajE5bmFNYThzadIBwgFBVV95cUxOU3d3UTc0U2R4MTVMSU1leGhDZDc5TndqR0V0UmF5T0Q3TUxvS3JHUUxBM09PX3JUZHFIcVpPVzBBMm1qVVdkQWxiOEJEWU14NXByemhnRXkxaGV5Q09IWnlBck5jT25ZUFEtLXA3dnNKeE5ZenRmZGdVY2FyWW9LTFlOWHo3Z3ZaMGhPc2ZOUU5rVXYzMFZocnp6bWtkdzFlQUYyaDl1OER3Q3FNS1ZFUHRUNDR0WDVsLXg0NWt2UUJpQQ?oc=5",
+  "urlToImage": null,
+  "publishedAt": "2024-08-07T05:48:44Z",
+  "content": null
+},
+{
+  "source": {
+    "id": "google-news",
+    "name": "Google News"
+  },
+  "author": "Mint",
+  "title": "Tech layoffs: Dell fires 12,500 employees, or 10 per cent of global workforce, in major shift towards AI, says report | Company Business News - Mint",
+  "description": null,
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcURkRG1lVlNMdDhCRFhnZk5obnhLX0FuektudnhOT2hNYkMydWhCTFRTYTBaVThNWmt1akVuUzBGZmxOcnpEZmpjdlllNnktQnhiRVdjN3NwN2N2dE1fbkg0SUpPN3NMUGRCV0FRME1fa3hsYjdOU240ek5aTVpGTHJZU3djM0dvaElfVm9JNmU1TWZEWWc2UG9tVDdGMUZIYTJJNmRneDZ3VENPUHR5OEp3NENxTExTeE5CS3RnTDV2aGdHZjBJWHd30gHPAUFVX3lxTE9NMFItTDZIVngyMVdBdlNfdHI3MjlRRExuRGl6cGZ4N1BFZGIzcktTalhOUGkzenNRUWZYZFpkRkVzTGNXTXZlQ1l3WDcwNlJEczl6V1RtbTkyXzNERHRXY3lrMFNiYWtlYWRROHdldmZLZHc4YlNnTVpydjdVc3RETUk3V2QwdHZHU1Nfa2JzWk9YVkRRMGd0T1Z0bEJDa1VFWG9IeHgydzBqSGl4bkZpNWlsLTJYaEVWenJzNGFUY3UwejUzQnI3VEVtbnNfUQ?oc=5",
+  "urlToImage": null,
+  "publishedAt": "2024-08-07T05:30:31Z",
+  "content": null
+},
+{
+  "source": {
+    "id": "google-news",
+    "name": "Google News"
+  },
+  "author": "CNBCTV18",
+  "title": "Fusion Microfinance shares fall below IPO price post 20% drop on high credit costs, downgrade - CNBCTV18",
+  "description": null,
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNV3ZmbEpIaWJZNFpRNGZ2ZGtJMm16b0hfbXVjXzZPaXJYcVBIejd4YVU0NVp6eW9vS2J4Qzk2dUNIU0JXbGc1Zk5pMWgxT0dLVU13dVpxV0hwelZaVnhES3JpLVJHRnNvZDlVdk5nRVlmbGhneDV4U0JWSDBSb1lCQmZkRXhCRHpQU3h5Q1lFMWEzblpGMTMwakhGa0R5a1ZWTGdrTDVfWkhnOUVsckJIaFlVOWNIemtnbFJNVmJwdFJPWUxtZEJ4ZS04SldHU3RRVDJFQ290OWVMLTlRS2fSAeMBQVVfeXFMTTFuWDRBWDdPVEd4aDhlMW5xdXRpbHcybmo4SlU2d3hObTdIUlYtclRNQkhyelRIV0JERlVuX0h3NEJ6R24tZVRwNDNTcUd3aXlXY19lNDlfVURZTmJvQ05EMFIyTmV2Mk1ZdlpsNmc0N1pBSW1RcEFmOXUta3BPbmllX1hqNTdRYS1rZnNBR2cydVFJVTgzWnRYbFN6LTlBQjhCNHFITFNYYVNTSFNaSXp5NmtVX2ZTZ1AyLU9kSjdxRk56WlZIZ19pWFhHSUJUd0ZweUMtZl8weGI1bDBWMTRZRnc?oc=5",
+  "urlToImage": null,
+  "publishedAt": "2024-08-07T04:56:07Z",
+  "content": null
+},
+{
+  "source": {
+    "id": "google-news",
+    "name": "Google News"
+  },
+  "author": "Upstox",
+  "title": "Tata Power shares in the red after Q1 net profit grows 4% YoY - Upstox",
+  "description": null,
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT1RYdmh1Z0xCQlI1UEFXN3VoSE5lZWFvYklDZVI1aERyRUxZV3ZJOTlKWmplNl9DMXlMZ3lqMk5OTnNKWTktNW00ck4zTVBQeWlvOHFVTWRMTDZMaUZkOWhXUmtST2gyeFYtYW9hT2NRWTFwdXloWnRjUEtIU2daS3ljSU1fRWRFeDdueU9TenNXTXRqYWowZzczZGtpcm5GQmM2WVVHUENhUWJFVUpfUnlxRngyR1VrT3I0LQ?oc=5",
+  "urlToImage": null,
+  "publishedAt": "2024-08-07T04:34:07Z",
+  "content": null
+},
+{
+  "source": {
+    "id": "google-news",
+    "name": "Google News"
+  },
+  "author": "Upstox",
+  "title": "Wonderful Wednesday? SENSEX, NIFTY jump over 1% in early trade; check out the reasons - Upstox",
+  "description": null,
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSHV3YWJfZHg0emc4cGxGTTYxeENtMkt5TC1Wal9ad1ZHbFFrcTJQTFBCRVVjbGJ1Z1hNVENoNGh4dUNhUUlFZEVrdmdUb3dxR0xIYVVMVTE4T3dwMkJRWXhyaUE2S2RwQzFEcks0SDZSWnpHb3U0bWt4UUhEUFJ6S0dOZkxBU19rdnNKWU55WUhVZVUxN0ZpclpzaU1vS1VmVUxyWXNVSU5MRmRSdUYwX2NVWEVjU3BfaDFsdnZn?oc=5",
+  "urlToImage": null,
+  "publishedAt": "2024-08-07T04:25:35Z",
+  "content": null
+},
+{
+  "source": {
+    "id": "google-news",
+    "name": "Google News"
+  },
+  "author": "CNBCTV18",
+  "title": "Suzlon shares gain 4% post new acquisition; Morgan Stanley sees target of ₹74 - CNBCTV18",
+  "description": null,
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc0lLeEd0bTdxNzR3VHdsM1dQUnJCb254bndhRnZ2emFJbUJFNmxmc3dBdmVNNFJGS0EzT3o1SXZSN056LXZLUW56clN1NmxlS2k1R3NpS0l1amJNaXdLczZxTWtoYzMxU19DMmZIaEh2VmMzMk0xV0tmTnhDeUI5Y0dOd3JrS04wWGhUX1h2aGFRMXZSd2REVk5ya0ZDekNTNE91ZUhKbngxSElUYlMzNGxtaWNDX01QMlFoRVpvYWhsYlBDNUE?oc=5",
+  "urlToImage": null,
+  "publishedAt": "2024-08-07T03:56:28Z",
+  "content": null
+},
+{
+  "source": {
+    "id": "google-news",
+    "name": "Google News"
+  },
+  "author": "Mint",
+  "title": "Ola Electric IPO allotment likely to be fixed today. Latest GMP, steps to check allotment status | Stock Market News - Mint",
+  "description": null,
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObVVsSHVuZEp0X3VYZ0NMejlhWFNDdkZLbFhTeE5TbVlrSTB3RU1oaFBpUkRFUlBsZHcxX3B5VEM3X3g5UWFDVDBwSFNmOS1QVkRMUUR0X3NCT1lTUkJEWlhFVV9SOEdEM2doeEl2UkdwdndabEJZZzI0OF96OV90SW92SzVCTjMwRElLLTB5NEkxOE1YZU9kRGowYmY1cFJZd2YyOXFfNjZDbHZpMV9vcElyYTVjOWJPWEl2ZGdwUXI4OUhxMWs0TWUzTDB2X1pLNURob2l0MHRQQjdNUDFEa1lVeGfSAeoBQVVfeXFMTk9Fb3g1ZldyZTg1QTdWYWFsODJnZG56emQ1RWdJOWJLczlCME5mQURYODZEanZaTkFMa1Z0cDRpdkJKakZhcVNMSnhpSnJ3Zk5Sb2IwV1d1RXl1WGJIaTZhc05CelVfd28xN3NLaGlzUl9mNDFxZWZsU2Z6cVJYTmZDWFVORjJOT2RGYmw2dGFoZ2N3ZnhzUTAxbC1kNzFicTBxdkprWlhlR2NhTG1HNjNLN2NpVXZ5a2QxOE5fdHNWYzFXVHhFbHBsWkZFVWRINnppQlpPZXREdTkyaW5KczRDOWxvNWdBZExR?oc=5",
+  "urlToImage": null,
+  "publishedAt": "2024-08-07T03:08:17Z",
+  "content": null
+},
+{
+  "source": {
+    "id": "google-news",
+    "name": "Google News"
+  },
+  "author": "CarDekho",
+  "title": "Tata Curvv EV Will Be Available In Five Colours - CarDekho",
+  "description": null,
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVy1FY2d6RWUzUFd3aTlFTW92MUZzdmdoT1RFemthTUE2eDZzR2F2Z2N2ZEZBNVY5RW83c1NrLTZKZ3F2dTNZdGJVazVFTC1XQzdtMDBvbFZSeFExM29RbzRTOWh5RTA3a256MDNSRDNpbFIwTThRcHpwcUJSTkl3b290Uy03RTd6UnFQdWJrMWFDNG9pYTExaGxIUWpPd9IBpgFBVV95cUxNT3QzaFdFSDg4SWJaZ3B4WnZQZEhkTWRVVUZ5NVdCRk1nZGI1MGpOdkFrZUV2OVphb0wtNDdqLXM0TEwwbDI3cWFDUlE3SlNJRzRCeFpJcTdWaVlsNkxRN3ZYdGFzeE5KTm9ocHNHaEgzaGNVaFNGY1hWYlVFNGNOQng0SXdWRm1WXzdxdkJycjVrQVBZSUNncE9MUXJ0OEktamJvZXV3?oc=5",
+  "urlToImage": null,
+  "publishedAt": "2024-08-07T03:01:00Z",
+  "content": null
+},
+{
+  "source": {
+    "id": "google-news",
+    "name": "Google News"
+  },
+  "author": "Upstox",
+  "title": "Q1 results today: Godrej Consumer, Apollo Tyres, Aditya Birla Fashion, others to post earnings on August 7; check list - Upstox",
+  "description": null,
+  "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQZkJ3LUttaElJYzUzR0QzdkdFdXRxeGhDZWFWY2lWTGRaaC15UkI3TEhZVkhUZWQ0czM4WmluRGJqeWVBMklXTG5aT3NjWDd3SGVGWGY2ZWVtVlFRVldnZ3RYNnlYREp3SHVRazRpVi1KT1J2SmR0SG9VVkUzRmlHOXpxY1U2LTI0aXRCUGpELU5vWGlHZEpYbmlqWU1xbjFoVWpxMWQ1dUM4WXBVR0JHQUtzc2V6TzlGWExpZFd5a3JJTm1EMXNKamItTTBlSmNxaFNwYlpadFByYUdwTGFNTVN0N3pHSldGYWdGUVBRTTYwMUlIM3dDbTROdlVWeWd0M3VWVg?oc=5",
+  "urlToImage": null,
+  "publishedAt": "2024-08-07T02:46:57Z",
+  "content": null
+},
+{
+  "source": {
+    "id": "google-news",
+    "name": "Google News"
+  },
+  "author": "Moneycontrol",
+  "title": "Asian stocks rise after BOJ eases rate worries - Moneycontrol",
+  "description": null,
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZXJvWDBOV1BDMzluOHdINnpOendJRGVQOF9Wa3dsc1FIeWRsSGtiRDRCd2ZwWm04ZlMzdHdLT1B6RU9uWmJmZkU4dV9jVk8xcGh1ZDNtRk1mX211RkpVbmNDbEFpOHRSWHB3T1I5Y1RfaGRqQkxFWTlqUTBUcU55WVRlSVNDYVFSRTdkWEktU1c1bl8wQVN3ZGVINFFFUHJYdkNGZUVXZlgzVmtLTE42RdIBtgFBVV95cUxPVDRnVWlnVDFYTVlWZDItRm9GcnQyZWZtanU3NzlnMDZOdlIwLXNKaHNPb21wY2hBeTlvTGdvSUJraS10THpJbmc4V1FaM1pxU3NGOTR4dkZSVkdBTkxtUm5kNnFyUUpQeEdXMXZVbjZKSVgzcHhFbXFhUFFDSmJhekN6WTVsTDlZc2N2YkJscUdETThZczQ2VVh6dlhDaS1Fc2hnNDBSYndGOFZtVFZIOU5FamRxQQ?oc=5",
+  "urlToImage": null,
+  "publishedAt": "2024-08-07T02:17:32Z",
+  "content": null
+},
+{
+  "source": {
+    "id": "google-news",
+    "name": "Google News"
+  },
+  "author": "NDTV Profit",
+  "title": "Stocks To Watch: Apollo Tyres, Coromandel, Lupin, Hindalco, Welspun, Tata Power - NDTV Profit",
+  "description": null,
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUkYyeV9yaFZsRnhIVmxDWlpmcGlJV1FlemF3Rlh3TU5CZlVWWWZadDVHUHV2TEt5anpzcHlBQjlLdk1xR3ZKdnFFUUV5bTFMWTBWOXRVMkNHLWRYMXZIT1E1SGdlVlNOaFNXdUZRVzBpTkFjT3BKSjM2V0FHdUFuZ0dfcVdzZENiZlVwblF1ZkJXOHBDT2R1T0ZsTk1WVlYySmFFWXJrdEIzYWJocmNxa0Jn0gG3AUFVX3lxTE81ZV9GQVVRSmdfNC1wb1Q5VWxMY0o4MlJCNE5jRllmMzRIUkEtM0Q2dmd3dk01ZTJ3Nk9uQlpfbEVlSWZuVmRWd3otOUxMMk02NVNCaEo4WHFpcFpNVnU3RFFnOXppMWROZ2pNVG5zaDlwbl9mcjlCcld3cHhua3FJNERqazBOV2VwWjdlNzBTMUg4WGVhRUg4RDI0Vl9vNEV4QS1IQkJSNzE1ZGVvZkRSbFN1bzNGQQ?oc=5",
+  "urlToImage": null,
+  "publishedAt": "2024-08-07T01:30:00Z",
+  "content": null
+},
+{
+  "source": {
+    "id": "google-news",
+    "name": "Google News"
+  },
+  "author": "Moneycontrol",
+  "title": "Power struggle? Amit Agarwal in control of Amazon India as Manish Tiwary bows out - Moneycontrol",
+  "description": null,
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWjhxNkZEN1FYS1dZZHducXVWRnE5M3hhR1RsaXJtUzZFcXJLUU45ODBmTGFrTFVJdlI3UHk4X0F1bXRkdXdHNUJBbHRRaEZPZUxLVk9ldmM2cEJRNWR5WWNRVk10NWpSa0tNRUFpa1lhY0VRamQzNi10UXBRZ0V5UVlmcEdKa1JkRktSQkdEeHpCOWtFbVF1X3VzcmlMWmJkTDVKTzByZGowVnA2ZXRBTjNoVHRvSm5sU2duNXMxNWhRTk9jYVJKSi1TVjFudGxidF90V1FtZjQzcVdjQlHSAeMBQVVfeXFMT3ZuaHkweDdDQWRmc2tyMXhWTlVKakgtSzRNaHZuUGtXZmVwM0ZsUEQ4QVlZOUg3aUNtUHJqQU9OeXdLTmFITmgxTndsN3RYTXhMUnRBVWc5MlZBcHFxSFVPWnpTSkpuTmpfMTY4RmdfZDZpVV80UkJtTHFZMUtJNDJKZFZUM0hYUjVnZXBYSzVlVjNEMHdhS29yVDlyek92V2dTWnhrQVFaTVRPVlJlbmNWV2RaWWttMXVZMlBIdXI4OVZOeFZnWHppOFhvOE5iVGEzVzl3a3RLWXVRY2hzQllzcXc?oc=5",
+  "urlToImage": null,
+  "publishedAt": "2024-08-07T01:01:46Z",
+  "content": null
+},
+{
+  "source": {
+    "id": "google-news",
+    "name": "Google News"
+  },
+  "author": "The Economic Times",
+  "title": "Mizuho plans to say no to Yes Bank deal; it's SMBC vs Emirates NDB - The Economic Times",
+  "description": null,
+  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTEJRZ3N5R25ubVpmUVVUWFRJSl9UajYtOFl5eHlJa3g3VnMtYmIzYUJYRkdwMndUWVdCYjZIdTUyd0QtVHNsNzFXLXlvd2NnWFV6VlQ0b3pGX2dTZE1kY3p0bXloQUF0YjR4LVhHZm4tVFF1VGI2ekgtRVRlLVplQmpHMUNEUndGSDRKS2RXU1ptVW13VmF0dmJkU2ZBRVdPS0hXNUN4YmUtSXp4S1VmdEJhMnRFbDlDSEpJUndmTzA4a2NLbmwzdlpGVXIycndjVEFiOFlldDdmZUYzM1JzQmEyeGl4dw?oc=5",
+  "urlToImage": null,
+  "publishedAt": "2024-08-07T00:30:00Z",
+  "content": null
+},
+{
+  "source": {
+    "id": "google-news",
+    "name": "Google News"
+  },
+  "author": "CoinDesk",
+  "title": "Post WazirX Hack, India's CoinDCX Starts Investor Protection Fund With $6M - CoinDesk",
+  "description": null,
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON2xCNTlVc2JfUDk5b3lzUTJNRUR5RjhTSlo1di1lRnhzbjFGYmhMVThTd3I0Y0I2aW9iaDBDTUVYNjkzaXdWRjVHbHF2S0VOM1BWdWQyR194YnNqcWhzUVljNkQ2c2RVelN1aHpfME1odzM2MEtGVlZsblQ4M2h4V2QxNkhfS3BlcWtXclIwY25fcktKR3l1QUlPb3VmU1hJR3NzN1NhbHhiWGtTTEZISmxKbDdCUdIBuwFBVV95cUxNTGdNajdwQVVXSTVBb25FRy05TDM3YVkyeUc5U000cWJFNFVqanltb2JPbUtWQTZMcXE2TDVmMFRMOWV6LUpGUklVc2VnWHNRaE9nczZsTy1TUlpUWGtxTFBCY3hGSnRUS1Q2c2tVa0h2R3ZFQlBFVmtyNHZuTC1oY1BMRkNLR2FodnU5R3VrVElRWUhlOEN0Nms5Z0dZdTlVdWFRaWlES181cF9WajhDelJKYkdmSjAxcHVF?oc=5",
+  "urlToImage": null,
+  "publishedAt": "2024-08-06T23:30:00Z",
+  "content": null
+},
+{
+  "source": {
+    "id": "google-news",
+    "name": "Google News"
+  },
+  "author": "Investopedia",
+  "title": "Markets News, August 8, 2024: US Stocks Close Higher to Snap Three-Session Selloff - Investopedia",
+  "description": null,
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PWHEtWkpyajQwby0tRDZtNkEtUW9FeEk5c05BVEFrczdmSlF3TFFSdk05RGcxbXduZTE1SzJyUDVtTnJlOVBYTGNCMUpEbWF2Y09kRmpMYWtvTU9iNUhJdHZRU1ZJZ3ZSVXJkSnlR?oc=5",
+  "urlToImage": null,
+  "publishedAt": "2024-08-06T21:48:57Z",
+  "content": null
+},
+{
+  "source": {
+    "id": "google-news",
+    "name": "Google News"
+  },
+  "author": "FX Empire",
+  "title": "Gold, Silver, Platinum Forecasts – Gold Pulls Back Below $2400 As Treasury Yields Rise - FX Empire",
+  "description": null,
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRE1VTzIza29GMjN0a1A2ZnRyUzVtdHpOV1BVSm1xMmR0dTRqeTQ2a0xlYm16M0hVTGExWGQ2WlVzVUdpZkQwVmFSN01penZmNFdEYTVoRWdrYTVSRmlyR2xkMTRCeXJKbENvMXlPNndRQlJ2OWpBSjd5RlZPa2wycDFYazMySW01VzVHMUc1bUpRREZoVzRtUkk0MVdXQWpsUi0wV1lQbkhxbEI4WmZiQ0xvVlhJbVNlaXJieWxDU0xhMk1UaDBkcFFoM0U?oc=5",
+  "urlToImage": null,
+  "publishedAt": "2024-08-06T17:24:00Z",
+  "content": null
+},
+{
+  "source": {
+    "id": "google-news",
+    "name": "Google News"
+  },
+  "author": "Mint",
+  "title": "Oil bounces from multi-month lows on tight supply amid Israel-Iran conflict; Brent nears $77/bbl | Stock Market News - Mint",
+  "description": null,
+  "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxONGhkMG1OdjAwMjlPazRQd3laSVU0S0N6TEltZThPNnVvSkhHNk5ncTNMQVpobkVPNW5NZXZTQ0Nnc0M1N1NnY0FBWmpwRE5BakZhaENWR0I5Q2MyQzEzeUM1cmRIU3docjhoUnZLT29WT2laS3VMUFNkQldPUzJzX3lrMDJHS1VkdERHbU5JZnRSbWtCeUpwQVVEVWVLMGlfMlhLRXU5ZHBoZFRrRnJvS2hEVU5yLWFTRGNXa1psdG44LWxiakhCVnZYcVV6VTZOWmVyeENNLWdMem5RMHNpQWctNXM1R014dkRXWnhKWlVrd9IB9wFBVV95cUxORmJfSnBGT21CTTVYRHp0RTdSZFcwdEZpUmJFVEZ4TlAwdGNpYWV4WXFTLWlkcmhmVUg0QVRFSlRNNXYyZ0IwUTk4bUFQVnB4QS1KN0s3REZlVlJwMWRWQmFyVHZmbXA4dGZKeGhXQXA5TXNrTnNOMk1kSHNkbHhCTEQ1c1pmbEZsSF9CWm1VUWg5bngybXBtVEw0UHJFYmJOaFFBa2ZPakUxTjdVdVFhQUhKRmM3am5WejFSZlJhQTQ5VkxXNDh6SHVWbUlVMjNTQ2dvV1FGOHVfczJpSDI3Z0xYaGVuT01ILVNsdnYyV0V3NTlHWEdr?oc=5",
+  "urlToImage": null,
+  "publishedAt": "2024-08-06T17:21:18Z",
+  "content": null
+},
+{
+  "source": {
+    "id": "google-news",
+    "name": "Google News"
+  },
+  "author": "The Economic Times",
+  "title": "Govt approves appointment of CS Setty as SBI chairman; Rana Ashutosh Kumar Singh to takeover as MD - The Economic Times",
+  "description": null,
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTDBSYlE3TV8yenpRekZOQmpnTmNIaHMzOHJpN1VXY0dIMXk3c1Y3azUzaklTNU9tN0gtV1BtT2tscE5JNzhxWmNNSVNOQnlSTFJtZ2wxUDJTNmdib0VidmZwTTZ5WGdPMV9ZSUx3cW9pc1BGQ2N2WW1wTGdpNjdnRWZWTmpXYTU0WWU0d2VYaXo0ZC1DTmZtWEo3dDlDdGpCRDNwaXVieVBBdnZ4VnE5ZzYtbEZYUjJSeVVrTFlXb0VyTlpQ0gHKAUFVX3lxTE1ZWVI4dFJKTElDVmE0NHk1bmgwTDZHbFA0ZHE1Sm1yWUJxZnFtQkNoTGFCVmE1MlU1UGppYXhzaUxBZUdjdWpQNjE2SmxGN3pJeWVVenEyZTNwamt3a1NtYTFWdFZBUEpjeHNVV3cwcWRMbWFxWnFvZXZMNV9YanRINmsxekVxZ09DQVROUDJRT1VvbTctZ2VSaEVZb2pKbGdUUVBycG5EczBRQl9aMDlSY1ZRTnltdi1zaTNSZmtqVTM1aHBWaE4zcUE?oc=5",
+  "urlToImage": null,
+  "publishedAt": "2024-08-06T16:37:03Z",
+  "content": null
+},
+{
+  "source": {
+    "id": "google-news",
+    "name": "Google News"
+  },
+  "author": "The Financial Express",
+  "title": "India Inc feels the heat of Bangladesh political crisis - The Financial Express",
+  "description": null,
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYmhKOU1aYTYxZE1GYUJDZ2EwcnZTV3Jyemx6RTJrQ2RfcUlsckxLSklHWHNhanBoLW1JbUMySTlTRTdWZGRES3VXSzYxazVzYW5OX2ZVbmJscWxGVlZxSXNTekR3UHU2R09CdFRKRFdfbkU5cUZ0NWVzcERJNWZxOVNkelRqZWl4YmZBNlFFN2J0dEp4YWRvZ1JkN1dzNGMxTjkxd3hqMGFGV3Z2NXZldER2OHZZdw?oc=5",
+  "urlToImage": null,
+  "publishedAt": "2024-08-06T16:21:21Z",
+  "content": null
+},
+{
+  "source": {
+    "id": "google-news",
+    "name": "Google News"
+  },
+  "author": "Mint",
+  "title": "RBI MPC meeting: What does Indian stock market expect on August 8? | Stock Market News - Mint",
+  "description": null,
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPb3pPMVpyR2VfRVBqbWVOY1pQNV9uT0hDWE1DTFpKUnA3S0JJbDl0ZTJ0OUw2OUxxQUctcVRJUGk2WU5fQUVoQXhsWHRhbnRjUFhsc1BzMlY5a0lmd056MWc3R1NxTTkxZFoxb21RcHlyc29SQnExOWEwVGhHaG50ZWcwTnhPMUxCN25UbU9TcnJpejN2dElPLVViXzAwX3RfNVI4Zk5yWmE4emswWTdDeHRmWUptcEZXVFBjbW4wZ1FYcUxQV3NsakhOVnBTUnPSAdQBQVVfeXFMUGxLTE5wVU43WXViREY4a1RoS2YydUZIRmRQUFdLLTdpaHJPNUxfVXdQY3lZN1hTSU5BZEM2VWdQeEpseml4d2VPT0RhbU03MUdzbzdWdlJGV2dKTXR5OEdCRlMxcUVVb3YyakJmbGdWVUdCSlRaNDFDQ1VYY1M4aWRtUGZ1WUNXSHc3WWt2YmFEREwtaUkxNWdiMmNPMVA1MkV0SlNSeGM4NWNzTjR2V2h1ZU5uX1hjS1YyeXZZY2dMTERuNlJYTVBCNHIzNzdhZWFOWGs?oc=5",
+  "urlToImage": null,
+  "publishedAt": "2024-08-06T15:48:22Z",
+  "content": null
+}
+]
